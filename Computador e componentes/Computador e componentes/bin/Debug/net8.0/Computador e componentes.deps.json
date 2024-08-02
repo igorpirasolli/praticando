@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Computador e componentes/1.0.0": {
+        "runtime": {
+          "Computador e componentes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Computador e componentes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

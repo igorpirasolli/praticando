@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\bin\Debug\net8.0\Computador e componentes.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\bin\Debug\net8.0\Computador e componentes.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\bin\Debug\net8.0\Computador e componentes.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\bin\Debug\net8.0\Computador e componentes.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\bin\Debug\net8.0\Computador e componentes.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\obj\Debug\net8.0\Computador e componentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\obj\Debug\net8.0\Computador e componentes.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\obj\Debug\net8.0\Computador e componentes.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\obj\Debug\net8.0\Computador e componentes.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\obj\Debug\net8.0\Computador e componentes.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\obj\Debug\net8.0\refint\Computador e componentes.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\obj\Debug\net8.0\Computador e componentes.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\obj\Debug\net8.0\Computador e componentes.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Computador e componentes\Computador e componentes\obj\Debug\net8.0\ref\Computador e componentes.dll

@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\bin\Debug\net8.0\associacao_simples.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\bin\Debug\net8.0\associacao_simples.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\bin\Debug\net8.0\associacao_simples.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\bin\Debug\net8.0\associacao_simples.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\bin\Debug\net8.0\associacao_simples.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\obj\Debug\net8.0\associacao_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\obj\Debug\net8.0\associacao_simples.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\obj\Debug\net8.0\associacao_simples.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\obj\Debug\net8.0\associacao_simples.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\obj\Debug\net8.0\associacao_simples.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\obj\Debug\net8.0\refint\associacao_simples.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\obj\Debug\net8.0\associacao_simples.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\obj\Debug\net8.0\associacao_simples.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\associacao_simples\associacao_simples\obj\Debug\net8.0\ref\associacao_simples.dll

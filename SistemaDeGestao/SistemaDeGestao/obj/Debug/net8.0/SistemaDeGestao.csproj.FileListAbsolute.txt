@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\bin\Debug\net8.0\SistemaDeGestao.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\bin\Debug\net8.0\SistemaDeGestao.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\bin\Debug\net8.0\SistemaDeGestao.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\bin\Debug\net8.0\SistemaDeGestao.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\bin\Debug\net8.0\SistemaDeGestao.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\obj\Debug\net8.0\SistemaDeGestao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\obj\Debug\net8.0\SistemaDeGestao.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\obj\Debug\net8.0\SistemaDeGestao.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\obj\Debug\net8.0\SistemaDeGestao.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\obj\Debug\net8.0\SistemaDeGestao.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\obj\Debug\net8.0\refint\SistemaDeGestao.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\obj\Debug\net8.0\SistemaDeGestao.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\obj\Debug\net8.0\SistemaDeGestao.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemaDeGestao\SistemaDeGestao\obj\Debug\net8.0\ref\SistemaDeGestao.dll

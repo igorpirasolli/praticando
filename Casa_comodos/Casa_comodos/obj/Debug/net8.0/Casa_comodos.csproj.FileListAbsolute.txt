@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\bin\Debug\net8.0\Casa_comodos.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\bin\Debug\net8.0\Casa_comodos.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\bin\Debug\net8.0\Casa_comodos.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\bin\Debug\net8.0\Casa_comodos.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\bin\Debug\net8.0\Casa_comodos.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\obj\Debug\net8.0\Casa_comodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\obj\Debug\net8.0\Casa_comodos.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\obj\Debug\net8.0\Casa_comodos.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\obj\Debug\net8.0\Casa_comodos.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\obj\Debug\net8.0\Casa_comodos.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\obj\Debug\net8.0\refint\Casa_comodos.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\obj\Debug\net8.0\Casa_comodos.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\obj\Debug\net8.0\Casa_comodos.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Casa_comodos\Casa_comodos\obj\Debug\net8.0\ref\Casa_comodos.dll

@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\bin\Debug\net8.0\Composicao.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\bin\Debug\net8.0\Composicao.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\bin\Debug\net8.0\Composicao.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\bin\Debug\net8.0\Composicao.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\bin\Debug\net8.0\Composicao.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\obj\Debug\net8.0\refint\Composicao.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\Composicao\Composicao\obj\Debug\net8.0\ref\Composicao.dll

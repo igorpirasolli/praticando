@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\bin\Debug\net8.0\SistemasDeGestaoDeProjetos.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\bin\Debug\net8.0\SistemasDeGestaoDeProjetos.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\bin\Debug\net8.0\SistemasDeGestaoDeProjetos.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\bin\Debug\net8.0\SistemasDeGestaoDeProjetos.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\bin\Debug\net8.0\SistemasDeGestaoDeProjetos.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\obj\Debug\net8.0\SistemasDeGestaoDeProjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\obj\Debug\net8.0\SistemasDeGestaoDeProjetos.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\obj\Debug\net8.0\SistemasDeGestaoDeProjetos.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\obj\Debug\net8.0\SistemasDeGestaoDeProjetos.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\obj\Debug\net8.0\SistemasDeGestaoDeProjetos.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\obj\Debug\net8.0\refint\SistemasDeGestaoDeProjetos.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\obj\Debug\net8.0\SistemasDeGestaoDeProjetos.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\obj\Debug\net8.0\SistemasDeGestaoDeProjetos.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\SistemasDeGestaoDeProjetos\SistemasDeGestaoDeProjetos\obj\Debug\net8.0\ref\SistemasDeGestaoDeProjetos.dll

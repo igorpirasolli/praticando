@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\bin\Debug\net8.0\biblioteca_e_livros.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\bin\Debug\net8.0\biblioteca_e_livros.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\bin\Debug\net8.0\biblioteca_e_livros.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\bin\Debug\net8.0\biblioteca_e_livros.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\bin\Debug\net8.0\biblioteca_e_livros.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\obj\Debug\net8.0\biblioteca_e_livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\obj\Debug\net8.0\biblioteca_e_livros.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\obj\Debug\net8.0\biblioteca_e_livros.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\obj\Debug\net8.0\biblioteca_e_livros.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\obj\Debug\net8.0\biblioteca_e_livros.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\obj\Debug\net8.0\refint\biblioteca_e_livros.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\obj\Debug\net8.0\biblioteca_e_livros.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\obj\Debug\net8.0\biblioteca_e_livros.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\biblioteca_e_livros\biblioteca_e_livros\obj\Debug\net8.0\ref\biblioteca_e_livros.dll

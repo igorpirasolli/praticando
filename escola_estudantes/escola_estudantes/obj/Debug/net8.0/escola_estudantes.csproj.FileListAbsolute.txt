@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\bin\Debug\net8.0\escola_estudantes.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\bin\Debug\net8.0\escola_estudantes.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\bin\Debug\net8.0\escola_estudantes.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\bin\Debug\net8.0\escola_estudantes.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\bin\Debug\net8.0\escola_estudantes.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\obj\Debug\net8.0\escola_estudantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\obj\Debug\net8.0\escola_estudantes.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\obj\Debug\net8.0\escola_estudantes.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\obj\Debug\net8.0\escola_estudantes.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\obj\Debug\net8.0\escola_estudantes.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\obj\Debug\net8.0\refint\escola_estudantes.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\obj\Debug\net8.0\escola_estudantes.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\obj\Debug\net8.0\escola_estudantes.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\exercicios\escola_estudantes\escola_estudantes\obj\Debug\net8.0\ref\escola_estudantes.dll
