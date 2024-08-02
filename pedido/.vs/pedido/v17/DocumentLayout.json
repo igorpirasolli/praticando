@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB3E506-6ABC-4566-932C-681FF2FD8FAB}|pedido\\pedido.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB3E506-6ABC-4566-932C-681FF2FD8FAB}|pedido\\pedido.csproj|solutionrelative:pedido\\entidades\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB3E506-6ABC-4566-932C-681FF2FD8FAB}|pedido\\pedido.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB3E506-6ABC-4566-932C-681FF2FD8FAB}|pedido\\pedido.csproj|solutionrelative:pedido\\entidades\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB3E506-6ABC-4566-932C-681FF2FD8FAB}|pedido\\pedido.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB3E506-6ABC-4566-932C-681FF2FD8FAB}|pedido\\pedido.csproj|solutionrelative:pedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB3E506-6ABC-4566-932C-681FF2FD8FAB}|pedido\\pedido.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB3E506-6ABC-4566-932C-681FF2FD8FAB}|pedido\\pedido.csproj|solutionrelative:pedido\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB3E506-6ABC-4566-932C-681FF2FD8FAB}|pedido\\pedido.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB3E506-6ABC-4566-932C-681FF2FD8FAB}|pedido\\pedido.csproj|solutionrelative:pedido\\entidades\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB3E506-6ABC-4566-932C-681FF2FD8FAB}|pedido\\pedido.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\enun\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB3E506-6ABC-4566-932C-681FF2FD8FAB}|pedido\\pedido.csproj|solutionrelative:pedido\\entidades\\enun\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\Order.cs",
+              "RelativeDocumentMoniker": "pedido\\entidades\\Order.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\Order.cs",
+              "RelativeToolTip": "pedido\\entidades\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:49:13.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "pedido\\entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\Cliente.cs",
+              "RelativeToolTip": "pedido\\entidades\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:20:05.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\OrderItem.cs",
+              "RelativeDocumentMoniker": "pedido\\entidades\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\OrderItem.cs",
+              "RelativeToolTip": "pedido\\entidades\\OrderItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:05:47.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\Product.cs",
+              "RelativeDocumentMoniker": "pedido\\entidades\\Product.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\Product.cs",
+              "RelativeToolTip": "pedido\\entidades\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:05:17.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\Enun\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "pedido\\entidades\\Enun\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\entidades\\Enun\\OrderStatus.cs",
+              "RelativeToolTip": "pedido\\entidades\\Enun\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:54:58.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\Program.cs",
+              "RelativeDocumentMoniker": "pedido\\Program.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\pedido\\pedido\\Program.cs",
+              "RelativeToolTip": "pedido\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:50:50.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

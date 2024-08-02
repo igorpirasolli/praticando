@@ -36,7 +36,7 @@ namespace teste.entidade
         public void imprimir()
         {
             Console.WriteLine($"{Title}\n" +
-                $"{Likes} - {Moment}\n" +
+                $"{Likes} likes - {Moment}\n" +
                 $"{Content}\n" +
                 $"comments:");
             foreach (Comment comment in Comment)
